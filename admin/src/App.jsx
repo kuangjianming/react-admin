@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import React from "react";
 import "antd/dist/antd.css";
-
+import './assets/app.scss'
 import { Layout, Menu, Breadcrumb } from "antd";
 import {
   DesktopOutlined,
